@@ -1,24 +1,22 @@
 <h1 align='center'>
 Ola! meu nome é Anderson 🖐️
 </h1>
-<p align='center'>
-  📫 Entre em contato comigo: <a href='mailto:andersonrozwot@gmail.com'>andersonrozwot@gmail.com</a>
+<p align="center">
+  📫 <a href="mailto:andersonrozwot@gmail.com">andersonrozwot@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/andersonrozwot/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📷 <a href="https://www.instagram.com/anderssonrz/">Instagram</a>
 </p>
-<div align='center' style="display: inline_block">
-  <!--   <a href="https://wa.me/123" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
-  <a href="https://www.instagram.com/anderssonrz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andersonrozwot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+
 
 
 ### 🤖 Linguagens e Tecnologias
 <div align='center' style="display: inline_block">
-  <img align="center" alt="icone Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap"    title="Bootstrap"     width="30px"     style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="icone Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icone PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
   <img align="center" alt="icone Python" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
-  <img align="center" alt="Bootstrap"    title="Bootstrap"     width="30px"     style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
   ##
