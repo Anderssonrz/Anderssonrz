@@ -1,8 +1,8 @@
 <h1 align='center'>
-## Ola! meu nome é Anderson 🖐️
+Ola! meu nome é Anderson 🖐️
 </h1>
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 Entre em contato comigo: <a href='andersonrozwot@gmail.com'>andersonrozwot@gmail.com</a>
 </p>
 <div align='center' style="display: inline_block">
   <!--   <a href="https://wa.me/123" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
