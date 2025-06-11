@@ -7,6 +7,10 @@
   📷 <a href="https://www.instagram.com/anderssonrz/">Instagram</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anderssonrz&color=blue" alt="Anderson's profile views"/>
+</p>
+
 ---
 
 ### 👨‍💻 Sobre mim
@@ -15,6 +19,7 @@
 - 🔍 Interesses: **BI, automação, APIs, back-end**
 - 🛠️ Crio soluções práticas com foco em dados
 - 🚀 Buscando crescimento profissional e novos desafios
+- 📌 Explorando tecnologias como **Python, Google Apps Script e n8n**
 
 ---
 
