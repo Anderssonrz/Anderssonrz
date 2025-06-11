@@ -41,4 +41,3 @@
 ---
 
 > 💡 “Tecnologia move o mundo, mas a curiosidade move a tecnologia.”  
-> – Anderson
