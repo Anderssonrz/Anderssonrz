@@ -12,14 +12,12 @@
   <img align="center" alt="icone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icone PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
   <img align="center" alt="icone Python" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
-  <img align="center" alt="icone vuejs" height="40" width="40" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
-  <img align="center" alt="icone typescript" height="40" width="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
 </div>
   
   ##
 
 <div style="display: inline_block">
-  <a href="https://www.instagram.com/anderssonrz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/123" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andersonrozwot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--   <a href="https://wa.me/123" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.instagram.com/anderssonrz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>s
+  <a href="https://www.linkedin.com/in/andersonrozwot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
