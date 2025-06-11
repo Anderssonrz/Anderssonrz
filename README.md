@@ -10,7 +10,6 @@ Ola! meu nome é Anderson 🖐️
   <a href="https://www.linkedin.com/in/andersonrozwot/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-    ---
 
 ### 🤖 Linguagens e Tecnologias
 <div align='center' style="display: inline_block">
@@ -19,7 +18,7 @@ Ola! meu nome é Anderson 🖐️
   <img align="center" alt="icone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icone PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
   <img align="center" alt="icone Python" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
-  <img align="left" alt="Bootstrap"    title="Bootstrap"     width="30px"     style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Bootstrap"    title="Bootstrap"     width="30px"     style="padding-right: 10px;"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
   ##
