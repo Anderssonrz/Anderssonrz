@@ -7,10 +7,6 @@
   📷 <a href="https://www.instagram.com/anderssonrz/">Instagram</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anderssonrz&color=blue" alt="Anderson's profile views"/>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
