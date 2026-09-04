@@ -59,29 +59,6 @@ integrações e melhorias no ERP.
 
 ---
 
-### 🚀 Projetos
-
-**📦 Catálogo Fácil**
-
-Sistema web desenvolvido para facilitar a divulgação de produtos de pequenos comércios através
-do WhatsApp. O cliente acessa o catálogo, adiciona produtos ao carrinho e, ao finalizar, é
-direcionado para o WhatsApp da loja com o pedido organizado.
-
-**Tecnologias:** TypeScript, JavaScript, Supabase e PostgreSQL
-
-🔗 [Ver projeto](https://github.com/Anderssonrz/CATALOGO-FACIL)
-
-**🅿️ Espaço Livre**
-
-Plataforma para facilitar a busca e o aluguel de vagas de estacionamento. O sistema permite
-consultar vagas disponíveis, cadastrar usuários, cadastrar vagas e gerenciar reservas.
-
-**Tecnologias:** PHP, MySQL, JavaScript, HTML e CSS
-
-🔗 [Ver projeto](https://github.com/Anderssonrz/espaco-livre)
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
