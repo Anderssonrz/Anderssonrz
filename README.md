@@ -11,11 +11,13 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🌱 Estudante de **Desenvolvimento de Sistemas**
-- 🔍 Interesses: **BI, automação, APIs, back-end**
-- 🛠️ Crio soluções práticas com foco em dados
-- 🚀 Buscando crescimento profissional e novos desafios
-- 📌 Explorando tecnologias como **Python, Google Apps Script e n8n**
+- 💼 Analista de Suporte Júnior
+- 🧩 Desenvolvimento e manutenção de **Pontos de Entrada em ADVPL**
+- 🗄️ Desenvolvimento de consultas e relatórios com **SQL Server**
+- 🏢 Experiência com **TOTVS Protheus / Backoffice**
+- 🔄 Análise de integrações, erros e regras de negócio
+- 🌱 Técnico em Desenvolvimento de Sistemas pelo **IFSC**
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas em andamento
 
 ---
 
